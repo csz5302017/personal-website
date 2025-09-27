@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
@@ -72,45 +72,6 @@ const Subtitle = styled(motion.p)`
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-`;
-
-const CTAButtons = styled(motion.div)`
-  display: flex;
-  gap: ${props => props.theme.spacing.lg};
-  justify-content: center;
-  flex-wrap: wrap;
-`;
-
-const Button = styled(motion.a)`
-  display: inline-block;
-  padding: ${props => props.theme.spacing.md} ${props => props.theme.spacing.xl};
-  border-radius: ${props => props.theme.borderRadius.full};
-  font-weight: 600;
-  font-size: ${props => props.theme.fontSizes.lg};
-  text-decoration: none;
-  transition: all ${props => props.theme.transitions.fast};
-  position: relative;
-  overflow: hidden;
-  
-  ${props => props.primary ? `
-    background: ${props.theme.colors.gradient};
-    color: white;
-    box-shadow: ${props.theme.shadows.glow};
-    
-    &:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 10px 30px rgba(249, 115, 22, 0.4);
-    }
-  ` : `
-    background: transparent;
-    color: ${props.theme.colors.text};
-    border: 2px solid ${props.theme.colors.border};
-    
-    &:hover {
-      background: ${props.theme.colors.surface};
-      border-color: ${props.theme.colors.primary};
-    }
-  `}
 `;
 
 const ScrollIndicator = styled(motion.div)`

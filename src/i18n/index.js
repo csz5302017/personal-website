@@ -223,7 +223,7 @@ const enResources = {
       degree: "Bachelor of Marine Technology",
       university: "Shanghai Ocean University",
       period: "2013.9 - 2017.7",
-      notes: "China's Top University; Courses include C++, Data Structures, Database, Digital Image Processing, etc."
+      notes: "Courses include C++, Data Structures, Database, Digital Image Processing, etc."
     },
     contact: {
       title: "Contact",

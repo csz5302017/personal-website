@@ -101,22 +101,22 @@ const zhResources = {
     },
     projects: {
       title: "项目经验",
-      project1: {
-        name: "二手奢侈品管理后台",
-        period: "2024.5 - 2024.10",
-        techStack: ["React", "TypeScript", "Firebase"],
-        details: {
-          0: "AI敏捷开发，一个半月上线",
-          1: "支持价格配置、消息通知、订单、退货流程"
-        }
-      },
-      project2: {
+      project1:  {
         name: "QA短视频app开发",
         period: "2024.10 - 2025.10",
         techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
           0: "前后端功能改修，部分原生代码修改",
           1: "编写API文档和内部设计书"
+        }
+      },
+      project2:{
+        name: "二手奢侈品管理后台",
+        period: "2024.5 - 2024.10",
+        techStack: ["React", "TypeScript", "Firebase"],
+        details: {
+          0: "AI敏捷开发，一个半月上线",
+          1: "支持价格配置、消息通知、订单、退货流程"
         }
       },
       project3: {
@@ -419,22 +419,22 @@ const jaResources = {
     },
     projects: {
       title: "プロジェクト経験",
-      project1: {
-        name: "中古奢侈品管理バックエンド",
-        period: "2024.5 - 2024.10",
-        techStack: ["React", "TypeScript", "Firebase"],
-        details: {
-          0: "AIアジャイル開発、1.5ヶ月でリリース",
-          1: "価格設定、通知、注文、返品プロセスをサポート"
-        }
-      },
-      project2: {
+      project1:  {
         name: "QAショート動画アプリ開発",
         period: "2024.10 - 2025.10",
         techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
           0: "フロントエンド・バックエンド機能改修、部分的なネイティブコード変更",
           1: "APIドキュメントと内部設計書の作成"
+        }
+      },
+      project2:{
+        name: "中古奢侈品管理バックエンド",
+        period: "2024.5 - 2024.10",
+        techStack: ["React", "TypeScript", "Firebase"],
+        details: {
+          0: "AIアジャイル開発、1.5ヶ月でリリース",
+          1: "価格設定、通知、注文、返品プロセスをサポート"
         }
       },
       project3: {

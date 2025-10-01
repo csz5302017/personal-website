@@ -35,7 +35,7 @@ const zhResources = {
       backend: "后端技术",
       tools: "开发工具",
       frontendSkills: ["JavaScript", "HTML", "React", "Vue", "React Native", "小程序", "Cordova", "TypeScript"],
-      backendSkills: ["Node.js", "Python", "Firebase", "AWS", "REST API", "数据库设计", "API文档编写"],
+      backendSkills: ["Node.js", "Python", "Firebase", "AWS", "REST API", "API文档编写"],
       toolSkills: ["Git", "Taro", "Echarts", "Three.js", "jQuery", "Less", "Umi框架"]
     },
     experience: {
@@ -103,7 +103,7 @@ const zhResources = {
       title: "项目经验",
       project1: {
         name: "二手奢侈品管理后台",
-        period: "2024.10 - 2025.10",
+        period: "2024.5 - 2024.10",
         techStack: ["React", "TypeScript", "Firebase"],
         details: {
           0: "AI敏捷开发，一个半月上线",
@@ -112,7 +112,7 @@ const zhResources = {
       },
       project2: {
         name: "QA短视频app开发",
-        period: "2024.5 - 2024.10",
+        period: "2024.10 - 2025.10",
         techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
           0: "前后端功能改修，部分原生代码修改",
@@ -194,7 +194,7 @@ const enResources = {
       backend: "Backend",
       tools: "Tools",
       frontendSkills: ["JavaScript", "HTML", "React", "Vue", "React Native", "Mini Program", "Cordova", "TypeScript"],
-      backendSkills: ["Node.js", "Python", "Firebase", "AWS", "REST API", "Database Design", "API Documentation"],
+      backendSkills: ["Node.js", "Python", "Firebase", "AWS", "REST API", "API Documentation"],
       toolSkills: ["Git", "Taro", "Echarts", "Three.js", "jQuery", "Less", "Umi Framework"]
     },
     experience: {
@@ -261,23 +261,23 @@ const enResources = {
     projects: {
       title: "Project Experience",
       project1: {
-        name: "Second-hand Luxury Goods Management Backend",
-        period: "2024.10 - 2025.10",
-        techStack: ["React", "TypeScript", "Firebase"],
-        details: {
-          0: "AI agile development, launched in 1.5 months",
-          1: "Support price configuration, notifications, orders, return processes"
-        }
-      },
-      project2: {
         name: "QA Short Video App Development",
-        period: "2024.5 - 2024.10",
+        period: "2024.10 - 2025.10",
         techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
           0: "Frontend and backend feature modifications, partial native code changes",
           1: "API documentation and internal design documentation"
         }
       },
+      project2:{
+        name: "Second-hand Luxury Goods Management Backend",
+        period: "2024.5 - 2024.10",
+        techStack: ["React", "TypeScript", "Firebase"],
+        details: {
+          0: "AI agile development, launched in 1.5 months",
+          1: "Support price configuration, notifications, orders, return processes"
+        }
+      } ,
       project3: {
         name: "One-day Insurance Page Development",
         period: "2024.10 - 2024.5",
@@ -353,7 +353,7 @@ const jaResources = {
       backend: "バックエンド",
       tools: "ツール",
       frontendSkills: ["JavaScript", "HTML", "React", "Vue", "React Native", "ミニプログラム", "Cordova", "TypeScript"],
-      backendSkills: ["Node.js", "Python", "Firebase", "AWS", "REST API", "データベース設計", "APIドキュメント"],
+      backendSkills: ["Node.js", "Python", "Firebase", "AWS", "REST API", "APIドキュメント"],
       toolSkills: ["Git", "Taro", "Echarts", "Three.js", "jQuery", "Less", "Umiフレームワーク"]
     },
     experience: {
@@ -421,7 +421,7 @@ const jaResources = {
       title: "プロジェクト経験",
       project1: {
         name: "中古奢侈品管理バックエンド",
-        period: "2024.10 - 2025.10",
+        period: "2024.5 - 2024.10",
         techStack: ["React", "TypeScript", "Firebase"],
         details: {
           0: "AIアジャイル開発、1.5ヶ月でリリース",
@@ -430,7 +430,7 @@ const jaResources = {
       },
       project2: {
         name: "QAショート動画アプリ開発",
-        period: "2024.5 - 2024.10",
+        period: "2024.10 - 2025.10",
         techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
           0: "フロントエンド・バックエンド機能改修、部分的なネイティブコード変更",

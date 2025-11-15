@@ -6,7 +6,7 @@ const zhResources = {
   translation: {
     name: "Claire Chen",
     title: "前端开发工程师",
-    subtitle: "八年前端开发经验，熟悉React、Vue；四年React Native开发经验，三年PC & 移动端页面开发经验，两年在日经验，能独立开发app和web项目。",
+    subtitle: "八年前端开发经验，熟悉React、Vue；四年React Native开发经验，四年PC & 移动端页面开发经验，两年在日经验，能独立开发app和web项目。",
     about: {
       title: "关于我",
       content: "我是一名拥有八年丰富经验的前端开发工程师，专注于React、Vue等现代前端框架，具备四年React Native开发经验。能够独立开发app和web项目，熟悉PC端和移动端页面开发。拥有两年在日经验，目前在日本东京工作，具备N2日语水平。",
@@ -165,7 +165,7 @@ const enResources = {
   translation: {
     name: "Claire Chen",
     title: "Frontend Developer",
-    subtitle: "8 years of frontend development experience, familiar with React and Vue; 4 years of React Native development experience, 3 years of PC & mobile page development experience, 2 years of work experience in Japan, capable of independently developing apps and web projects.",
+    subtitle: "8 years of frontend development experience, familiar with React and Vue; 4 years of React Native development experience, 4 years of PC & mobile page development experience, 2 years of work experience in Japan, capable of independently developing apps and web projects.",
     about: {
       title: "About Me",
       content: "I am a frontend developer with 8 years of rich experience, specializing in modern frontend frameworks like React and Vue, with 4 years of React Native development experience. Capable of independently developing apps and web projects, familiar with PC and mobile page development. With 2 years of work experience in Japan, currently working in Tokyo with N2 Japanese proficiency.",
@@ -324,7 +324,7 @@ const jaResources = {
   translation: {
     name: "Claire Chen",
     title: "フロントエンド開発者",
-    subtitle: "8年のフロントエンド開発経験、React・Vueに精通；4年のReact Native開発経験、3年のPC・モバイルページ開発経験、2年の日本での勤務経験、アプリとWebプロジェクトの独立開発が可能。",
+    subtitle: "8年のフロントエンド開発経験、React・Vueに精通；4年のReact Native開発経験、4年のPC・モバイルページ開発経験、2年の日本での勤務経験、アプリとWebプロジェクトの独立開発が可能。",
     about: {
       title: "自己紹介",
       content: "私は8年の豊富な経験を持つフロントエンド開発者で、React・Vueなどのモダンなフロントエンドフレームワークに特化し、4年のReact Native開発経験があります。アプリとWebプロジェクトの独立開発が可能で、PC・モバイルページ開発に精通しています。2年の日本での勤務経験を持ち、現在東京で働いており、日本語N2レベルです。",

@@ -129,7 +129,7 @@ const About = () => {
   });
 
   const stats = [
-    { number: '7+', label: 'Years Experience' },
+    { number: '8+', label: 'Years Experience' },
     { number: '2+', label: 'Years in Japan' },
     { number: '4+', label: 'React Native Years' },
     { number: 'N2', label: 'Japanese Level' }

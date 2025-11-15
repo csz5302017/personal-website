@@ -44,7 +44,7 @@ const zhResources = {
         name: "MCT JAPAN株式会社",
         position: "全栈工程师",
         period: "2023.10 - 至今",
-        description: "全栈负责人，参与人员招聘任用；开发物流中心自动化仓库PDA/PAD应用；保险项目基于Vue的SPA开发；短视频app开发（React Native）；二手奢侈品app后台管理画面开发（AI敏捷开发）。"
+        description: "全栈负责人，参与人员招聘任用；开发物流中心自动化仓库PDA应用；保险项目基于Vue的SPA开发；短视频app开发（React Native）；二手奢侈品app后台管理画面开发（AI敏捷开发）。"
       },
       company2: {
         name: "中化石化销售有限公司",
@@ -203,7 +203,7 @@ const enResources = {
         name: "MCT JAPAN Co., Ltd.",
         position: "Full Stack Engineer",
         period: "2023.10 - Present",
-        description: "Full stack team lead, involved in recruitment; Developed PDA/PAD applications for automated warehouse logistics center; Insurance project SPA development based on Vue; Short video app development (React Native); Second-hand luxury goods app backend management development (AI agile development)."
+        description: "Full stack team lead, involved in recruitment; Developed PDA applications for automated warehouse logistics center; Insurance project SPA development based on Vue; Short video app development (React Native); Second-hand luxury goods app backend management development (AI agile development)."
       },
       company2: {
         name: "Sinochem Petrochemical Sales Co., Ltd.",
@@ -362,7 +362,7 @@ const jaResources = {
         name: "MCT JAPAN株式会社",
         position: "フルスタックエンジニア",
         period: "2023.10 - 現在",
-        description: "フルスタック責任者、採用に関与；物流センター自動倉庫PDA/PADアプリケーション開発；保険プロジェクトVueベースSPA開発；ショート動画アプリ開発（React Native）；中古奢侈品アプリバックエンド管理画面開発（AIアジャイル開発）。"
+        description: "フルスタック責任者、採用に関与；物流センター自動倉庫PDAアプリケーション開発；保険プロジェクトVueベースSPA開発；ショート動画アプリ開発（React Native）；中古奢侈品アプリバックエンド管理画面開発（AIアジャイル開発）。"
       },
       company2: {
         name: "中化石化販売有限公司",

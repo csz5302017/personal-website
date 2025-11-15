@@ -6,10 +6,10 @@ const zhResources = {
   translation: {
     name: "Claire Chen",
     title: "前端开发工程师",
-    subtitle: "七年前端开发经验，熟悉React、Vue；四年React Native开发经验，三年PC & 移动端页面开发经验，两年在日经验，能独立开发app和web项目。",
+    subtitle: "八年前端开发经验，熟悉React、Vue；四年React Native开发经验，三年PC & 移动端页面开发经验，两年在日经验，能独立开发app和web项目。",
     about: {
       title: "关于我",
-      content: "我是一名拥有七年丰富经验的前端开发工程师，专注于React、Vue等现代前端框架，具备四年React Native开发经验。能够独立开发app和web项目，熟悉PC端和移动端页面开发。拥有两年在日经验，目前在日本东京工作，具备N2日语水平。",
+      content: "我是一名拥有八年丰富经验的前端开发工程师，专注于React、Vue等现代前端框架，具备四年React Native开发经验。能够独立开发app和web项目，熟悉PC端和移动端页面开发。拥有两年在日经验，目前在日本东京工作，具备N2日语水平。",
       cards: {
         react: {
           title: "React & Vue",
@@ -43,13 +43,13 @@ const zhResources = {
       company1: {
         name: "MCT JAPAN株式会社",
         position: "全栈工程师",
-        period: "2023.5 - 至今",
+        period: "2023.10 - 至今",
         description: "全栈负责人，参与人员招聘任用；开发物流中心自动化仓库PDA/PAD应用；保险项目基于Vue的SPA开发；短视频app开发（React Native）；二手奢侈品app后台管理画面开发（AI敏捷开发）。"
       },
       company2: {
         name: "中化石化销售有限公司",
         position: "前端工程师",
-        period: "2019.8 - 2023.5",
+        period: "2019.8 - 2023.8",
         description: "物流app开发（React Native），为内部销售业务员提供服务；Tob端小程序开发（Taro + React）；物流地图大屏软件开发（Vue + Echarts）。"
       },
       company3: {
@@ -78,12 +78,11 @@ const zhResources = {
     languages: {
       title: "语言能力",
       japanese: "日语 N2",
-      english: "英语 CET-4",
-      duolingo: "Duolingo 110分"
+      english: "Duolingo 110分"
     },
     jobIntention: {
       title: "求职意向",
-      position: "前端开发",
+      position: "全栈工程师・前端工程师",
       salary: "面议",
       status: "在职找工作 - 1个月内到岗"
     },
@@ -102,26 +101,27 @@ const zhResources = {
     projects: {
       title: "项目经验",
       project1:  {
-        name: "QA短视频app开发",
-        period: "2024.10 - 2025.10",
-        techStack: ["React Native", "TypeScript", "React", "Node.js"],
+        name: "二手奢侈品app运营管理系统",
+        period: "2025.5 - 现在",
+        techStack: ["React", "TypeScript", "Firebase"],
         details: {
-          0: "前后端功能改修，部分原生代码修改",
-          1: "编写API文档和内部设计书"
+          0: "React和TypeScript敏捷开发，一个半月上线",
+          1: "从企划・设计到开发、测试全程负责",
+          2: "积极活用AI进行开发。"
         }
       },
       project2:{
-        name: "二手奢侈品管理后台",
-        period: "2024.5 - 2024.10",
-        techStack: ["React", "TypeScript", "Firebase"],
+        name: "短视频app开发",
+        period: "2024.5 - 2025.5",
+        techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
-          0: "AI敏捷开发，一个半月上线",
-          1: "支持价格配置、消息通知、订单、退货流程"
+          0: "前端（React Native）和后端（Node.js）的全栈开发。",
+          1: "负责详细设计书以及内部设计书的部分制作。",
         }
       },
       project3: {
         name: "一日保险页面开发",
-        period: "2024.10 - 2024.5",
+        period: "2023.11 - 2024.4",
         techStack: ["Vue", "JavaScript", "jQuery", "AWS", "Python"],
         details: {
           0: "本地多服务开发，涉及数据库和Python脚本",
@@ -139,8 +139,8 @@ const zhResources = {
         }
       },
       project5: {
-        name: "掌上化销app项目",
-        period: "2019.8 - 2023.9",
+        name: "化学品销售企业内部销售业务员业务app",
+        period: "2019.8 - 2023.7",
         techStack: ["React Native"],
         details: {
           0: "销售/采购业务app开发",
@@ -149,7 +149,7 @@ const zhResources = {
       },
       project6: {
         name: "物流大屏项目",
-        period: "2019.8 - 2020.2",
+        period: "2022.8 - 2023.7",
         techStack: ["Vue", "Echarts"],
         details: {
           0: "大屏实时展示中国销售情况",
@@ -165,10 +165,10 @@ const enResources = {
   translation: {
     name: "Claire Chen",
     title: "Frontend Developer",
-    subtitle: "7 years of frontend development experience, familiar with React and Vue; 4 years of React Native development experience, 3 years of PC & mobile page development experience, 2 years of work experience in Japan, capable of independently developing apps and web projects.",
+    subtitle: "8 years of frontend development experience, familiar with React and Vue; 4 years of React Native development experience, 3 years of PC & mobile page development experience, 2 years of work experience in Japan, capable of independently developing apps and web projects.",
     about: {
       title: "About Me",
-      content: "I am a frontend developer with 7 years of rich experience, specializing in modern frontend frameworks like React and Vue, with 4 years of React Native development experience. Capable of independently developing apps and web projects, familiar with PC and mobile page development. With 2 years of work experience in Japan, currently working in Tokyo with N2 Japanese proficiency.",
+      content: "I am a frontend developer with 8 years of rich experience, specializing in modern frontend frameworks like React and Vue, with 4 years of React Native development experience. Capable of independently developing apps and web projects, familiar with PC and mobile page development. With 2 years of work experience in Japan, currently working in Tokyo with N2 Japanese proficiency.",
       cards: {
         react: {
           title: "React & Vue",
@@ -202,13 +202,13 @@ const enResources = {
       company1: {
         name: "MCT JAPAN Co., Ltd.",
         position: "Full Stack Engineer",
-        period: "2023.5 - Present",
+        period: "2023.10 - Present",
         description: "Full stack team lead, involved in recruitment; Developed PDA/PAD applications for automated warehouse logistics center; Insurance project SPA development based on Vue; Short video app development (React Native); Second-hand luxury goods app backend management development (AI agile development)."
       },
       company2: {
         name: "Sinochem Petrochemical Sales Co., Ltd.",
         position: "Frontend Engineer",
-        period: "2019.8 - 2023.5",
+        period: "2019.8 - 2023.8",
         description: "Logistics app development (React Native) for internal sales staff; ToB mini-program development (Taro + React); Logistics map dashboard software development (Vue + Echarts)."
       },
       company3: {
@@ -237,12 +237,11 @@ const enResources = {
     languages: {
       title: "Language Skills",
       japanese: "Japanese N2",
-      english: "English CET-4",
-      duolingo: "Duolingo 110"
+      english: "Duolingo 110"
     },
     jobIntention: {
       title: "Job Intention",
-      position: "Frontend Development",
+      position: "Full Stack Engineer・Frontend Engineer",
       salary: "Negotiable",
       status: "Currently employed, available within 1 month"
     },
@@ -261,26 +260,27 @@ const enResources = {
     projects: {
       title: "Project Experience",
       project1: {
-        name: "QA Short Video App Development",
-        period: "2024.10 - 2025.10",
-        techStack: ["React Native", "TypeScript", "React", "Node.js"],
+        name: "Second-hand Luxury Goods App Operation Management System",
+        period: "2025.5 - Present",
+        techStack: ["React", "TypeScript", "Firebase"],
         details: {
-          0: "Frontend and backend feature modifications, partial native code changes",
-          1: "API documentation and internal design documentation"
+          0: "React and TypeScript agile development, launched in 1.5 months",
+          1: "Responsible for planning, design, development, and testing throughout",
+          2: "Actively utilized AI in development."
         }
       },
       project2:{
-        name: "Second-hand Luxury Goods Management Backend",
-        period: "2024.5 - 2024.10",
-        techStack: ["React", "TypeScript", "Firebase"],
+        name: "Short Video App Development",
+        period: "2024.5 - 2025.5",
+        techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
-          0: "AI agile development, launched in 1.5 months",
-          1: "Support price configuration, notifications, orders, return processes"
+          0: "Full stack development of frontend (React Native) and backend (Node.js).",
+          1: "Responsible for creating detailed design documents and part of internal design documents.",
         }
       } ,
       project3: {
         name: "One-day Insurance Page Development",
-        period: "2024.10 - 2024.5",
+        period: "2023.11 - 2024.4",
         techStack: ["Vue", "JavaScript", "jQuery", "AWS", "Python"],
         details: {
           0: "Local multi-service development, involving databases and Python scripts",
@@ -298,8 +298,8 @@ const enResources = {
         }
       },
       project5: {
-        name: "Mobile Sales App Project",
-        period: "2019.8 - 2023.9",
+        name: "Business App for Internal Sales Staff of Chemical Sales Company",
+        period: "2019.8 - 2023.7",
         techStack: ["React Native"],
         details: {
           0: "Sales/purchase business app development",
@@ -308,7 +308,7 @@ const enResources = {
       },
       project6: {
         name: "Logistics Dashboard Project",
-        period: "2019.8 - 2020.2",
+        period: "2022.8 - 2023.7",
         techStack: ["Vue", "Echarts"],
         details: {
           0: "Real-time display of China sales on large screen",
@@ -324,10 +324,10 @@ const jaResources = {
   translation: {
     name: "Claire Chen",
     title: "フロントエンド開発者",
-    subtitle: "7年のフロントエンド開発経験、React・Vueに精通；4年のReact Native開発経験、3年のPC・モバイルページ開発経験、2年の日本での勤務経験、アプリとWebプロジェクトの独立開発が可能。",
+    subtitle: "8年のフロントエンド開発経験、React・Vueに精通；4年のReact Native開発経験、3年のPC・モバイルページ開発経験、2年の日本での勤務経験、アプリとWebプロジェクトの独立開発が可能。",
     about: {
       title: "自己紹介",
-      content: "私は7年の豊富な経験を持つフロントエンド開発者で、React・Vueなどのモダンなフロントエンドフレームワークに特化し、4年のReact Native開発経験があります。アプリとWebプロジェクトの独立開発が可能で、PC・モバイルページ開発に精通しています。2年の日本での勤務経験を持ち、現在東京で働いており、日本語N2レベルです。",
+      content: "私は8年の豊富な経験を持つフロントエンド開発者で、React・Vueなどのモダンなフロントエンドフレームワークに特化し、4年のReact Native開発経験があります。アプリとWebプロジェクトの独立開発が可能で、PC・モバイルページ開発に精通しています。2年の日本での勤務経験を持ち、現在東京で働いており、日本語N2レベルです。",
       cards: {
         react: {
           title: "React & Vue",
@@ -361,13 +361,13 @@ const jaResources = {
       company1: {
         name: "MCT JAPAN株式会社",
         position: "フルスタックエンジニア",
-        period: "2023.5 - 現在",
+        period: "2023.10 - 現在",
         description: "フルスタック責任者、採用に関与；物流センター自動倉庫PDA/PADアプリケーション開発；保険プロジェクトVueベースSPA開発；ショート動画アプリ開発（React Native）；中古奢侈品アプリバックエンド管理画面開発（AIアジャイル開発）。"
       },
       company2: {
         name: "中化石化販売有限公司",
         position: "フロントエンドエンジニア",
-        period: "2019.8 - 2023.5",
+        period: "2019.8 - 2023.8",
         description: "物流アプリ開発（React Native）、内部営業担当者向けサービス；ToBミニプログラム開発（Taro + React）；物流マップダッシュボードソフトウェア開発（Vue + Echarts）。"
       },
       company3: {
@@ -396,12 +396,11 @@ const jaResources = {
     languages: {
       title: "言語能力",
       japanese: "日本語 N2",
-      english: "英語 CET-4",
-      duolingo: "Duolingo 110点"
+      english: "Duolingo 110点",
     },
     jobIntention: {
       title: "求職意向",
-      position: "フロントエンド開発",
+      position: "フルスタックエンジニア・フロントエンドエンジニア",
       salary: "応相談",
       status: "在職中求職 - 1ヶ月以内に着任可能"
     },
@@ -420,26 +419,28 @@ const jaResources = {
     projects: {
       title: "プロジェクト経験",
       project1:  {
-        name: "QAショート動画アプリ開発",
-        period: "2024.10 - 2025.10",
-        techStack: ["React Native", "TypeScript", "React", "Node.js"],
+        name: "中古ブランド品アプリ運営管理システム",
+        period: "2025.5 - 現在",
+        techStack: ["React", "TypeScript", "Firebase"],
         details: {
-          0: "フロントエンド・バックエンド機能改修、部分的なネイティブコード変更",
-          1: "APIドキュメントと内部設計書の作成"
+          0: "reactとTypescriptアジャイル開発、1.5ヶ月でリリース",
+          1: "企画・設計から開発、テストまで一貫して担当",
+          2: "AI を積極的に活用して開発を行いました。"
         }
       },
       project2:{
-        name: "中古奢侈品管理バックエンド",
-        period: "2024.5 - 2024.10",
-        techStack: ["React", "TypeScript", "Firebase"],
+        name: "ショート動画アプリ開発",
+        period: "2024.5 - 2025.5",
+        techStack: ["React Native", "TypeScript", "React", "Node.js"],
         details: {
-          0: "AIアジャイル開発、1.5ヶ月でリリース",
-          1: "価格設定、通知、注文、返品プロセスをサポート"
+          0: "フロントエンド（React Native）とバックエンド（Node.js）のフルスタック開発を行いました。",
+          1: "詳細設計書および内部設計書の一部作成を担当しました。",
         }
+        
       },
       project3: {
         name: "一日保険ページ開発",
-        period: "2024.10 - 2024.5",
+        period: "2023.11 - 2024.4",
         techStack: ["Vue", "JavaScript", "jQuery", "AWS", "Python"],
         details: {
           0: "ローカル多サービス開発、データベースとPythonスクリプトを含む",
@@ -457,8 +458,8 @@ const jaResources = {
         }
       },
       project5: {
-        name: "モバイル販売アプリプロジェクト",
-        period: "2019.8 - 2023.9",
+        name: "化学品販売企業の社内営業担当者向け業務アプリ",
+        period: "2019.8 - 2023.7",
         techStack: ["React Native"],
         details: {
           0: "販売/仕入業務アプリ開発",
@@ -467,7 +468,7 @@ const jaResources = {
       },
       project6: {
         name: "物流ダッシュボードプロジェクト",
-        period: "2019.8 - 2020.2",
+        period: "2022.8 - 2023.7",
         techStack: ["Vue", "Echarts"],
         details: {
           0: "大画面での中国販売状況のリアルタイム表示",
